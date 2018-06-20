@@ -1,0 +1,13 @@
+{
+	"config": {
+		"theme": {
+			"currentTheme": "ptt2Theme",
+			"themes": [
+				"defaultTheme",
+				"ptt2Theme"
+			],
+			"baseTheme": "ptt2Theme"
+		},
+		"version": "6.8.2"
+	}
+}
